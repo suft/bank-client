@@ -13,7 +13,7 @@ import java.net.http.HttpResponse.BodyHandlers;
 import com.google.gson.Gson;
 
 /**
- * A Web Service Client for a Bank API
+ * A Web Service Client for a Bank
  * 
  * @author Sufien Tout
  * @version 1.0

@@ -1,7 +1,7 @@
 package com.suft.bank;
 
 /**
- * 
+ * A java application that consumes a sample REST Webservice
  * 
  * @author Sufien Tout
  * @version 1.0
